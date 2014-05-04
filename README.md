@@ -1,4 +1,4 @@
 orbit
 =====
 
-Modeling three body problem in C++
+Modeling three body problem.
